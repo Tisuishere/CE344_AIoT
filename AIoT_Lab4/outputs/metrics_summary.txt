@@ -1,0 +1,32 @@
+--- Evaluation for Z-Score ---
+Precision: 0.1053
+Recall: 1.0000
+F1-Score: 0.1905
+Confusion Matrix:
+[[7242   17]
+ [   0    2]]
+
+--- Evaluation for Isolation Forest ---
+Precision: 0.0274
+Recall: 1.0000
+F1-Score: 0.0533
+Confusion Matrix:
+[[7188   71]
+ [   0    2]]
+
+--- Evaluation for One-Class SVM ---
+Precision: 0.0274
+Recall: 1.0000
+F1-Score: 0.0533
+Confusion Matrix:
+[[7188   71]
+ [   0    2]]
+
+--- Evaluation for LSTM Forecasting ---
+Precision: 0.0000
+Recall: 0.0000
+F1-Score: 0.0000
+Confusion Matrix:
+[[7211   48]
+ [   2    0]]
+
