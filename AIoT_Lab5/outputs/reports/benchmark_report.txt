@@ -1,0 +1,9 @@
+
+--- KẾT QUẢ BENCHMARK ---
+Mô hình         | Dung lượng (MB) | Latency (ms/sample) 
+-------------------------------------------------------
+Baseline (H5)   | 10.92           | 299.02              
+PTQ Dynamic     | 2.56            | 25.20               
+PTQ FP16        | 4.60            | 4.33                
+PTQ INT8        | 2.76            | 6.59                
+QAT             | 2.75            | 8.17                

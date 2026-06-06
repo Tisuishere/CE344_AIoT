@@ -1,0 +1,7 @@
+
+--- KẾT QUẢ ĐÁNH GIÁ ---
+Baseline (H5)   | Accuracy: 0.1630 | Macro F1: 0.0046
+PTQ Dynamic     | Accuracy: 0.1630 | Macro F1: 0.0046
+PTQ FP16        | Accuracy: 0.1630 | Macro F1: 0.0046
+PTQ INT8        | Accuracy: 0.1630 | Macro F1: 0.0046
+QAT             | Accuracy: 0.0859 | Macro F1: 0.0043
